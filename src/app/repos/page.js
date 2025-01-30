@@ -1,5 +1,4 @@
 'use client';
-
 import RepoTable from './RepoTable';
 import {
   Link,
